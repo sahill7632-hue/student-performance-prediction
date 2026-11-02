@@ -33,8 +33,14 @@ marks), followed by absences.
 2. Keep the Dataset folder in the same folder as the notebook
 3. Open Student_Performance_Prediction.ipynb and run the cells from top to bottom
 
+## Web app
+The project also has a simple web interface built with Streamlit. Run it with:
+`py -m streamlit run app.py`
+Then open http://localhost:8501 in your browser, answer the 6 questions and click Predict.v
+
 ## Files
 - Student_Performance_Prediction.ipynb: the full project notebook
 - Dataset/student-mat.csv: the data
 - Notebook.pdf: a PDF copy of the notebook with outputs
 - requirements.txt: the libraries needed
+- app.py: the Streamlit web app for predicting a student's marks
