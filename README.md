@@ -1,8 +1,7 @@
 # Student Performance Prediction
 
 This project predicts a student's final marks (G3, out of 20) using their earlier
-exam marks, study time, absences and a few other details. It was made for my
-5th semester Machine Learning course.
+exam marks, study time, absences and a few other details.
 
 ## Dataset
 Kaggle "Math Students" dataset (originally from the UCI Machine Learning
